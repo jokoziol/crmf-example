@@ -1,6 +1,5 @@
-package dev.jokoziol.crmf.main;
+package dev.jokoziol.crmf;
 
-import dev.jokoziol.crmf.CertReqMsg;
 import org.bouncycastle.asn1.crmf.CertReqMessages;
 import org.bouncycastle.asn1.util.ASN1Dump;
 import org.bouncycastle.asn1.x500.X500Name;
